@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Killingbeast
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Full stack development
 
 <!---
 Killingbeast/Killingbeast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
